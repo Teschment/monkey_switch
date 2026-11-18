@@ -1,0 +1,7 @@
+ALLE    = AN
+Philipp = AN
+Amleto  = AN
+Jonah   = AN
+Denis   = AN
+Reiner  = AN
+Test    = AN
